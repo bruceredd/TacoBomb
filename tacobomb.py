@@ -1,4 +1,42 @@
 import time
+
+def doIt():	
+	print "________________  _________  ________    ___________.___   _____  ___________._._._."
+	print "\__    ___/  _  \ \_   ___ \ \_____  \   \__    ___/|   | /     \ \_   _____/| | | |"
+	print "  |    | /  /_\  \/    \  \/  /   |   \    |    |   |   |/  \ /  \ |    __)_ | | | |"
+	print "  |    |/    |    \     \____/    |    \   |    |   |   /    Y    \|        \ \|\|\|"
+	print "  |____|\____|__  /\______  /\_______  /   |____|   |___\____|__  /_______  / ______"
+	print "                \/        \/         \/                         \/        \/  \/\/\/"
+	print "                                                                                    "
+	print "                                                                                    "
+	print "                                                                                    "
+	print "                                    +++I?7I$++, .                                   "
+	print "                        ......~?III?I?IZ7IZZ$$777II???:....                         "
+	print "                        ..??II7II7?$OZZ?$7Z$ZZ$Z78OZ7I77II?..                       "
+	print "                      .?II7777I$$I?$Z????+??+Z8ZZOOOOOOI7777O?..                    "
+	print "                     I??I77$7ZII??O?I?II8?II+77OI?O88DIII$O8ZIZI:.                  "
+	print "                ..~I?OI???OI$?ZZ???III88ND8I87III$??+?ND8?IOD7D$O8,..               "
+	print "                :7778OII8Z???++DNO??I?8I$OZII?D$ZO7?Z7++?I???8DND8Z7+.              "
+	print "              .II?I?IO?77OII$DD??Z8O88D8NND8D8OI$88ZD??+IIII$DO8I7$+=I.             "
+	print "             .7I7$8$O?IDD7I?$I?I8?8$D88D888ONINO88IZD787OOIZO$78+IIZ78ZO..          "
+	print "           .?$7$$I7IOZ877?IIZ77I?+NZ8$7DOO$+II??8DDZ?D8$O8$77OZ7OINZOIZOZ$,.        "
+	print "           I777$$$7DNO8O8D88ONDZZ8ND?NND?Z?ID$ZO877NNO7Z????I?IOI7I77IZ78OD.        "
+	print "         .?777$OD88MN888NNDONDND8OM$+=7??$O8OD$ZZZZ8O$8Z8ODNDN8ZZ87$I?7DON+.        "
+	print "         ,7777Z$7DNMNNNNDDDND????II7IIIIO?IIIZ7I????++?7NINNNND8DN?88?7O7?8O        "
+	print "       ..77788ZDNNDMNND8IIIIZ$$7$$$7777$$7$Z$$$$77I77$$77777IO8NDNDDI$I?IZ88O...    "
+	print "      ..I77887DNN8D?$II7$$$$$Z$$$7$$$$Z$$7$$$777777$Z$$77777I7I$NMNO$MMINZO8ID.     "
+	print "      ..77IDNNDMI?7$$$$$$$$$Z$$ZZ$$ZZ$$$Z$$$$Z7Z$$7O$$$$$$$$7$Z$$$?OOZDZNOD78OOO.   "
+	print "       777$N$DII7$D$$ZZ$$ZZ$ZZ$$Z7$$$ZZ$$Z$$$$$$$Z$$$$$$$$77$77$$$7I$88$NDINNN88.   "
+	print "      .$77$$III7777$Z$$$$7$$Z$$$Z$$Z$$$$$$$$Z$$$$$$$$$ZZ$$$$77$$77$77Z77NNINDD8O.   "
+	print "      =$$7DI7$Z$$7$$$$$Z$$$Z$Z$Z$$$$$$$7$$$$$$$$$Z$Z$Z$$$$$ZZZ$$$$$O$7$$7INDDDD8$Z.."
+	print "      777?7$$$$$7$$$$$$Z$$Z$ZZZ$$$$$$$$Z$$Z$$$$$Z$$$$$$$$$$$$$$7$77$7$Z7$$7IMDDDD..."
+	print "      I7I7$7$ZZ$$$$$Z$Z$$$$$$$Z$OZ$$Z$Z$$Z$$$$$$Z$$$$$$Z$$ZZ$$$Z$$$77$$$7$$7I8DD.   "
+	print "    ..I7$$$$$$$$$$$$$ZZ$$$ZZ$$$$$Z$Z$$$$$$$$$$$$$Z$ZZ$$$$ZZ$Z$Z$$$$$$ZZ7$Z$$7INNZ,.."
+	print "    ..II7$$7Z$Z$$Z$ZZZZ$$ZZZZZ$$$$$Z$Z$$Z$$$Z$ZZZ$$Z$$Z$$ZZ$$Z$Z$$$$$$$$$$8$$7DODD ."
+	print "    .=77I$$$ZZ$ZZZZZZZZZZ$ZZZZZZZZZZZZZZZZZZZZZ$ZZZZZ$ZZZZZ$Z$$Z$ZZZZZ$$Z$$$$777~   "
+	print "    ........ ..................... ...........  ......  ....................7$$?.   "
+	print "                                                                                    "
+
 while True:
-	print "Taco Time!!!"
+	doIt()
 	time.sleep(.5)
